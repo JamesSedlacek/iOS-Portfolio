@@ -28,7 +28,28 @@
 </div><br><br>
 
 <div>
-  <h2>Projects</h2>
+  <h2>Projects</h2><br>
+  
+  <div>
+    <h3>Custom Tab Bar Template</h3><br>
+  </div>
+  
+  <div>
+    <h3>Fetch Rewards Take-Home</h3><br>
+  </div>
+  
+  <div>
+    <h3>Crypto Alarms</h3><br>
+  </div>
+  
+  <div>
+    <h3>Login Template</h3><br>
+  </div>
+  
+  <div>
+    <h3>Sorting Algos</h3><br>
+  </div>
+  
 </div> <br><br>
 
 <div>
