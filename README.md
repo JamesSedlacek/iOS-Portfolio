@@ -44,7 +44,6 @@
   
   <div>
     <h3>Fetch Rewards Take-Home</h3><br>
-    <h3>Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/SearchTab.png" width="300" height="566">
@@ -58,7 +57,6 @@
   
   <div>
     <h3>Crypto Alarms</h3><br>
-    <h3>Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Loading.png" width="300" height="566">
@@ -77,7 +75,6 @@
   
   <div>
     <h3>Login Template</h3><br>
-    <h3>Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Home.png" width="300" height="566">
@@ -93,7 +90,6 @@
   
   <div>
     <h3>Sorting Algos</h3><br>
-    <h3>Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Home.png" width="300" height="566">
@@ -124,4 +120,7 @@
 
 <div>
   <h2>Contact Me</h2>
+  <a href="https://www.linkedin.com/in/jamessedlacekjr/">
+    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/LinkedIn.png">
+  </a>
 </div> <br><br>
