@@ -32,7 +32,7 @@
   <h2>Projects</h2><br>
   
   <div>
-    <h3>Custom Tab Bar Template</h3><br>
+    <h3 align="center">Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhone12Mockup.png" width="300" height="566">
@@ -40,10 +40,10 @@
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
-  </div>
+  </div><br>
   
   <div>
-    <h3>Fetch Rewards Take-Home</h3><br>
+    <h3 align="center">Fetch Rewards Take-Home</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/SearchTab.png" width="300" height="566">
@@ -53,10 +53,10 @@
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
-  </div>
+  </div><br>
   
   <div>
-    <h3>Crypto Alarms</h3><br>
+    <h3 align="center">Crypto Alarms</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Loading.png" width="300" height="566">
@@ -71,10 +71,10 @@
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
-  </div>
+  </div><br>
   
   <div>
-    <h3>Login Template</h3><br>
+    <h3 align="center">Login Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Home.png" width="300" height="566">
@@ -86,10 +86,10 @@
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
-  </div>
+  </div><br>
   
   <div>
-    <h3>Sorting Algos</h3><br>
+    <h3 align="center">Sorting Algos</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Home.png" width="300" height="566">
@@ -98,16 +98,55 @@
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
-  </div>
+  </div><br>
   
 </div> <br><br>
 
 <div>
   <h2>Technical Skills</h2>
+  <ul>
+    <li>TestFlight</li>   
+    <li>Unit Testing</li> 
+    <li>MVVM/MVC Pattern</li> 
+    <li>Multithreading with GCD</li> 
+    <li>CocoaPods</li> 
+    <li>Networking with URLSession</li> 
+    <li>Singleton Pattern</li> 
+    <li>Delegate Pattern</li> 
+    <li>Observer Pattern</li> 
+    <li>Data Persistence with UserDefaults, Firestore, KeyChain</li> 
+    <li>Storyboards, XIBs, Programmatic UI</li> 
+    <li>RESTful APIs</li> 
+    <li>App Store Connect</li> 
+    <li>JSON Encoding/Decoding</li> 
+    <li>Biometrics</li> 
+    <li>Geocoding</li>
+  </ul>
 </div> <br><br>
 
 <div>
-  <h2>Frameworks</h2>
+  <h2>Frameworks</h2><br>
+  <ul>
+    <li>UIKit</li>   
+    <li>MapKit</li> 
+    <li>SVGKit</li> 
+    <li>StoreKit</li> 
+    <li>HealthKit</li> 
+    <li>Charts</li> 
+    <li>FBLoginSDK</li> 
+    <li>GoogleSignIn</li> 
+    <li>LocalAuthentication</li> 
+    <li>UserNotifications</li> 
+    <li>NotificationCenter</li> 
+    <li>FirebaseAuth</li> 
+    <li>Firebase Firestore</li> 
+    <li>Firebase Messaging</li> 
+    <li>MessageUI</li> 
+    <li>GoogleAdMob</li> 
+    <li>CoreAnimation</li> 
+    <li>CoreLocation</li> 
+    <li>Auto Layout</li> 
+  </ul>
 </div> <br><br>
 
 <div>
