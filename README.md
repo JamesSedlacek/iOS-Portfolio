@@ -96,10 +96,9 @@
     <h3>Custom Tab Bar Template</h3><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/SortingAlgos1.png" width="300" height="566">
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/SortingAlgos2.png" width="300" height="566">
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/SortingAlgos3.png" width="300" height="566">
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/SortingAlgos4.png" width="300" height="566">
+    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Home.png" width="300" height="566">
+    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Settings.png" width="300" height="566">
+    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Info.png" width="300" height="566">
     <h4>Technologies Used</h4><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
