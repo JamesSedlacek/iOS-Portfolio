@@ -2,14 +2,17 @@
 
 <div>
   <h2>Overview</h2><br>
-  <div>
+  <p>
+    Hi, I'm James Sedlacek. Thanks for taking the time to checkout my iOS Portfolio.<br>
+  </p><br>
+  <div align="center">
     <h3>Published Apps</h3><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/CryptoAlarms%20Icon.png">
-    <a href="">
+    <a href="https://apps.apple.com/bt/app/crypto-alarms/id1566052371">
       <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/AppStoreButton.png" width=338 height=100>
     </a><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/Sorting%20Algos%20Icon.png">
-    <a href="">
+    <a href="https://apps.apple.com/us/app/sorting-algos/id1539189843">
       <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/AppStoreButton.png" width=338 height=100>
     </a><br>
   </div>
@@ -131,7 +134,7 @@
 </div> <br><br>
 
 <div>
-  <h2>Frameworks</h2><br>
+  <h2>Frameworks</h2>
   <ul>
     <li>UIKit</li>   
     <li>MapKit</li> 
