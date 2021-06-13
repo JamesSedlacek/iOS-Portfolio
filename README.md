@@ -54,12 +54,14 @@
     <ul>
       <li>Swift, UIKit, Storyboards, Xcode</li>
     </ul><br>
-    <h4>What I Learned</h4><br>
-    <p>
-    </p><br>
-    <h4>Challenges</h4><br>
-    <p>
-    </p><br>
+    <h4>What I Learned</h4>
+    <ul>
+      <li>How to work with and think about the Notch in smaller/older iPhones.</li>
+    </ul><br>
+    <h4>Challenges</h4>
+    <ul>
+      <li>Making the text inside of the label fit for all screen sizes.</li>
+    </ul><br>
   </div><br>
   
   <div>
@@ -82,12 +84,15 @@
       <li>CoreLocation</li>
       <li>SeatGeek API</li>
     </ul><br>
-    <h4>What I Learned</h4><br>
-    <p>
-    </p><br>
-    <h4>Challenges</h4><br>
-    <p>
-    </p><br>
+    <h4>What I Learned</h4>
+    <ul>
+      <li>MVVM</li>
+      <li>Unit Testing</li>
+    </ul><br>
+    <h4>Challenges</h4>
+    <ul>
+      <li>Building the Favoites Tab within a 1-hour technical interview.</li>
+    </ul><br>
   </div><br>
   
   <div>
@@ -118,12 +123,27 @@
       <li>SVGKit</li>
       <li>Charts</li>
     </ul>
-    <h4>What I Learned</h4><br>
-    <p>
-    </p><br>
-    <h4>Challenges</h4><br>
-    <p>
-    </p><br>
+    <h4>What I Learned</h4
+    <ul>
+      <li>Push Notification</li>
+      <li>Core Animation</li>
+      <li>Multithreading</li>
+      <li>API Integration</li>
+      <li>Charts</li>
+      <li>Loading Images Asynchronously</li>
+      <li>Observer Pattern</li>
+      <li>Container Views</li>
+      <li>Search Bars</li>
+      <li>Firebase Firestore</li>
+      <li>Firebase Messaging</li>
+      <li>Side Menu Navigation</li>
+    </ul><br>
+    <h4>Challenges</h4>
+    <ul>
+      <li>Push Notifications</li>
+      <li>Building a Backend Application in Java</li>
+      <li>Creating a side menu from scratch</li>
+    </ul><br>
   </div><br>
   
   <div>
@@ -146,16 +166,28 @@
       <li>Swift, Xcode, UIKit, Storyboards</li>
       <li>Git/GitHub</li>
       <li>CocoaPods</li>
-      <li>FBLoginSDK</li>
+      <li>FBSDKLoginKit</li>
+      <li>FBSDKCoreKit</li>
       <li>GoogleSignIn</li>
       <li>FirebaseAuth</li>
+      <li>AVKit</li>
     </ul>
-    <h4>What I Learned</h4><br>
-    <p>
-    </p><br>
-    <h4>Challenges</h4><br>
-    <p>
-    </p><br>
+    <h4>What I Learned</h4>
+    <ul>
+      <li>Firebase Authentication</li>
+      <li>Facebook Authentication</li>
+      <li>Google Authnetication</li>
+      <li>Toggling Secure Text in TextField</li>
+      <li>KeyChain data persistence</li>
+      <li>Account Managment</li>
+      <li>Data Validation</li>
+      <li>Biometrics</li>
+      <li>CocoaPods</li>
+    </ul><br>
+    <h4>Challenges</h4>
+    <ul>
+      <li>Customizing Facebook & Google Buttons</li>
+    </ul><br>
   </div><br>
   
   <div>
@@ -176,12 +208,19 @@
       <li>Git/GitHub</li>
       <li>Google AdMob</li>
     </ul>
-    <h4>What I Learned</h4><br>
-    <p>
-    </p><br>
-    <h4>Challenges</h4><br>
-    <p>
-    </p><br>
+    <h4>What I Learned</h4>
+    <ul>
+      <li>UserDefaults data persistence</li>
+      <li>Programmatic UI for the bars</li>
+      <li>Splash screen animation</li>
+      <li>App Store Connect</li>
+      <li>Google AdMob</li>
+      <li>PickerView</li>
+    </ul><br>
+    <h4>Challenges</h4>
+    <ul>
+      <li>Calculating the bar's maximum height to look good on all screen sizes.</li>
+    </ul><br>
   </div><br>
   
 </div> <br><br>
