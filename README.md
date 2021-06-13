@@ -122,8 +122,8 @@
       <li>API Nomics</li>
       <li>SVGKit</li>
       <li>Charts</li>
-    </ul>
-    <h4>What I Learned</h4
+    </ul><br>
+    <h4>What I Learned</h4>
     <ul>
       <li>Push Notification</li>
       <li>Core Animation</li>
@@ -171,7 +171,7 @@
       <li>GoogleSignIn</li>
       <li>FirebaseAuth</li>
       <li>AVKit</li>
-    </ul>
+    </ul><br>
     <h4>What I Learned</h4>
     <ul>
       <li>Firebase Authentication</li>
@@ -183,6 +183,7 @@
       <li>Data Validation</li>
       <li>Biometrics</li>
       <li>CocoaPods</li>
+      <li>AVKit</li>
     </ul><br>
     <h4>Challenges</h4>
     <ul>
@@ -207,7 +208,7 @@
       <li>Storyboards</li>
       <li>Git/GitHub</li>
       <li>Google AdMob</li>
-    </ul>
+    </ul><br>
     <h4>What I Learned</h4>
     <ul>
       <li>UserDefaults data persistence</li>
