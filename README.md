@@ -10,7 +10,7 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/CryptoAlarms%20Icon.png">
     <a href="https://apps.apple.com/bt/app/crypto-alarms/id1566052371">
       <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/AppStoreButton.png" width=338 height=100>
-    </a><br>
+    </a><br><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/Sorting%20Algos%20Icon.png">
     <a href="https://apps.apple.com/us/app/sorting-algos/id1539189843">
       <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/AppStoreButton.png" width=338 height=100>
@@ -48,8 +48,8 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhoneSEMockup.png" width="300" height="566">
     <h4>Technologies Used</h4>
     <ul>
-      <li></li>
-    </ul>
+      <li>Swift, UIKit, Storyboards, Xcode</li>
+    </ul><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
@@ -64,8 +64,12 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/FavoritesTab.png" width="300" height="566">
     <h4>Technologies Used</h4>
     <ul>
-      <li></li>
-    </ul>
+      <li>Swift, UIKit, Storyboards, XIB, Xcode</li>
+      <li>Git/GitHub</li>
+      <li>MapKit</li>
+      <li>CoreLocation</li>
+      <li>SeatGeek API</li>
+    </ul><br>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
@@ -73,6 +77,9 @@
   <div>
     <h2 align="center">Crypto Alarms</h2><br>
     <h4>Project Description</h4><br>
+    <p>
+      Finance App where you can view Cryptocurrency prices, create a watchlist, set custom alerts, and discover cryptocurrencies.<br>
+    </p><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Loading.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Watchlist.png" width="300" height="566">
@@ -85,7 +92,15 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/CreateAlert.png" width="300" height="566">
     <h4>Technologies Used</h4>
     <ul>
-      <li></li>
+      <li>Swift, UIKit, Storyboards, Xcode</li>
+      <li>CocoaPods, Git/GitHub</li>
+      <li>Core Animation</li>
+      <li>Firebase Firestore</li>
+      <li>Firebase Messaging</li>
+      <li>UserNotifications</li>
+      <li>API Nomics</li>
+      <li>SVGKit</li>
+      <li>Charts</li>
     </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
@@ -132,9 +147,7 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Info.png" width="300" height="566">
     <h4>Technologies Used</h4>
     <ul>
-      <li>Swift</li>
-      <li>Xcode</li>
-      <li>UIKit</li>
+      <li>Swift, Xcode, UIKit</li> 
       <li>Storyboards</li>
       <li>Git/GitHub</li>
       <li>Google AdMob</li>
@@ -198,6 +211,16 @@
 
 <div>
   <h2>About Me</h2>
+  <h4>Educational Background</h4>
+  <p>
+    I started programming when I was in High School. <br>
+    I taught myself the basics of Java and C++ from watching YouTube tutorials. <br>
+    Then I took a C++ class in my sophomore year and an Honors Java class in my junior year. <br>
+    Naturally, I chose to major in Computer Programming in College. <br>
+    I tried challenging myself by competing in programming competitions and I had one semester <br>
+    where I took intro to java, c++, and c# all at the same time. <br>
+    After College I continued my education through online courses (Udemy), YouTube tutorials, and building projects.<br>
+  </p>
 </div> <br><br>
 
 <div>
