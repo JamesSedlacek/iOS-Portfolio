@@ -42,6 +42,11 @@
   
   <div>
     <h2 align="center">Custom Tab Bar Template</h2><br>
+    <div align="center">
+      <a href="https://github.com/JamesSedlacek/Custom_TabBar_Template">
+        <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" width=258 height=100>
+      </a>
+    </div><br>
     <h4>Project Description</h4><br>
     <p>
       This is a template app that I created because developers on LinkedIn wanted a GitHub Repo<br>
@@ -66,6 +71,11 @@
   
   <div>
     <h2 align="center">Fetch Rewards Take-Home</h2><br>
+    <div align="center">
+      <a href="https://github.com/JamesSedlacek/FetchRewards">
+        <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" width=258 height=100>
+      </a>
+    </div><br>
     <h4>Project Description</h4><br>
     <p>
       This project was created as a take-home project for the company 'Fetch Rewards'. <br>
@@ -148,6 +158,11 @@
   
   <div>
     <h2 align="center">Login Template</h2><br>
+    <div align="center">
+      <a href="https://github.com/JamesSedlacek/LoginSignupTemplate">
+        <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" width=258 height=100>
+      </a>
+    </div><br>
     <h4>Project Description</h4><br>
     <p>
       This is a template app used for account creation & management.<br>
