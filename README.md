@@ -3,7 +3,8 @@
 <div>
   <h2>Overview</h2><br>
   <p>
-    Hi, I'm James Sedlacek. Thanks for taking the time to checkout my iOS Portfolio.<br>
+    Hi, I'm James Sedlacek. Thanks for taking the time to checkout my iOS Portfolio.<br><br>
+    Last Update: June 13th, 2021<br>
   </p><br>
   <div align="center">
     <h3>Published Apps</h3><br>
