@@ -291,6 +291,11 @@
 
 <div>
   <h2>Freelance Experience</h2>
+  <h4>Upwork Earnings</h4>
+  <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/UpWork_Profile.png"><br><br>
+  <h4>Upwork Reviews</h4>
+  <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/UpWork_Review_Jan2021.png"><br><br>
+  <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/ReviewUpwork.png">
 </div> <br><br>
 
 <div>
