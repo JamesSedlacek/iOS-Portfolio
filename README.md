@@ -41,31 +41,37 @@
   <h2>Projects</h2><br>
   
   <div>
-    <h3 align="center">Custom Tab Bar Template</h3><br>
+    <h2 align="center">Custom Tab Bar Template</h2><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhone12Mockup.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhoneSEMockup.png" width="300" height="566">
-    <h4>Technologies Used</h4><br>
+    <h4>Technologies Used</h4>
+    <ul>
+      <li></li>
+    </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
   
   <div>
-    <h3 align="center">Fetch Rewards Take-Home</h3><br>
+    <h2 align="center">Fetch Rewards Take-Home</h2><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/SearchTab.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/DetailView.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/MapView.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/FavoritesTab.png" width="300" height="566">
-    <h4>Technologies Used</h4><br>
+    <h4>Technologies Used</h4>
+    <ul>
+      <li></li>
+    </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
   
   <div>
-    <h3 align="center">Crypto Alarms</h3><br>
+    <h2 align="center">Crypto Alarms</h2><br>
     <h4>Project Description</h4><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Loading.png" width="300" height="566">
@@ -77,14 +83,22 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Discover.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Alerts.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/CreateAlert.png" width="300" height="566">
-    <h4>Technologies Used</h4><br>
+    <h4>Technologies Used</h4>
+    <ul>
+      <li></li>
+    </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
   
   <div>
-    <h3 align="center">Login Template</h3><br>
+    <h2 align="center">Login Template</h2><br>
     <h4>Project Description</h4><br>
+    <p>
+      This is a template app used for account creation & management.<br>
+      There's multiple ways to authenticate the user. Facebook, Google, Biometrics, & Email.<br>
+      The Main Login screen has a .mov file that continuously loops<br>
+    </p><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Home.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/CreateAccount.png" width="300" height="566">
@@ -92,19 +106,39 @@
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Login.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Settings.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/ChangePassword.png" width="300" height="566">
-    <h4>Technologies Used</h4><br>
+    <h4>Technologies Used</h4>
+    <ul>
+      <li>Swift, Xcode, UIKit, Storyboards</li>
+      <li>Git/GitHub</li>
+      <li>CocoaPods</li>
+      <li>FBLoginSDK</li>
+      <li>GoogleSignIn</li>
+      <li>FirebaseAuth</li>
+    </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
   
   <div>
-    <h3 align="center">Sorting Algos</h3><br>
+    <h2 align="center">Sorting Algos</h2><br>
     <h4>Project Description</h4><br>
+    <p>
+      An Educational App for software engineering students.<br>
+      Visualize the sorting algorithms and learn about them.<br>
+    </p><br>
     <h4>Screenshots</h4><br>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Home.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Settings.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Info.png" width="300" height="566">
-    <h4>Technologies Used</h4><br>
+    <h4>Technologies Used</h4>
+    <ul>
+      <li>Swift</li>
+      <li>Xcode</li>
+      <li>UIKit</li>
+      <li>Storyboards</li>
+      <li>Git/GitHub</li>
+      <li>Google AdMob</li>
+    </ul>
     <h4>What I Learned</h4><br>
     <h4>Challenges</h4><br>
   </div><br>
