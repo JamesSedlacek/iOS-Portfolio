@@ -43,7 +43,11 @@
   <div>
     <h2 align="center">Custom Tab Bar Template</h2><br>
     <h4>Project Description</h4><br>
-    <h4>Screenshots</h4><br>
+    <p>
+      This is a template app that I created because developers on LinkedIn wanted a GitHub Repo<br>
+      for the custom tab bar that I made for my current project<br>
+    </p><br>
+    <h4>Screenshots</h4>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhone12Mockup.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/CustomTabBarTemplate/iPhoneSEMockup.png" width="300" height="566">
     <h4>Technologies Used</h4>
@@ -51,13 +55,21 @@
       <li>Swift, UIKit, Storyboards, Xcode</li>
     </ul><br>
     <h4>What I Learned</h4><br>
+    <p>
+    </p><br>
     <h4>Challenges</h4><br>
+    <p>
+    </p><br>
   </div><br>
   
   <div>
     <h2 align="center">Fetch Rewards Take-Home</h2><br>
     <h4>Project Description</h4><br>
-    <h4>Screenshots</h4><br>
+    <p>
+      This project was created as a take-home project for the company 'Fetch Rewards'. <br>
+      The assignment was to create an app that consumes the SeatGeek API. <br>
+    </p><br>
+    <h4>Screenshots</h4>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/SearchTab.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/DetailView.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Fetch%20Rewards/MapView.png" width="300" height="566">
@@ -71,7 +83,11 @@
       <li>SeatGeek API</li>
     </ul><br>
     <h4>What I Learned</h4><br>
+    <p>
+    </p><br>
     <h4>Challenges</h4><br>
+    <p>
+    </p><br>
   </div><br>
   
   <div>
@@ -80,7 +96,7 @@
     <p>
       Finance App where you can view Cryptocurrency prices, create a watchlist, set custom alerts, and discover cryptocurrencies.<br>
     </p><br>
-    <h4>Screenshots</h4><br>
+    <h4>Screenshots</h4>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Loading.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/Watchlist.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Crypto%20Alarms/EditWatchlist.png" width="300" height="566">
@@ -103,7 +119,11 @@
       <li>Charts</li>
     </ul>
     <h4>What I Learned</h4><br>
+    <p>
+    </p><br>
     <h4>Challenges</h4><br>
+    <p>
+    </p><br>
   </div><br>
   
   <div>
@@ -114,7 +134,7 @@
       There's multiple ways to authenticate the user. Facebook, Google, Biometrics, & Email.<br>
       The Main Login screen has a .mov file that continuously loops<br>
     </p><br>
-    <h4>Screenshots</h4><br>
+    <h4>Screenshots</h4>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Home.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/CreateAccount.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Login%20Template/Terms.png" width="300" height="566">
@@ -131,7 +151,11 @@
       <li>FirebaseAuth</li>
     </ul>
     <h4>What I Learned</h4><br>
+    <p>
+    </p><br>
     <h4>Challenges</h4><br>
+    <p>
+    </p><br>
   </div><br>
   
   <div>
@@ -141,7 +165,7 @@
       An Educational App for software engineering students.<br>
       Visualize the sorting algorithms and learn about them.<br>
     </p><br>
-    <h4>Screenshots</h4><br>
+    <h4>Screenshots</h4>
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Home.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Settings.png" width="300" height="566">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Sorting%20Algos/Info.png" width="300" height="566">
@@ -153,7 +177,11 @@
       <li>Google AdMob</li>
     </ul>
     <h4>What I Learned</h4><br>
+    <p>
+    </p><br>
     <h4>Challenges</h4><br>
+    <p>
+    </p><br>
   </div><br>
   
 </div> <br><br>
