@@ -286,6 +286,7 @@
     <li>CoreAnimation</li> 
     <li>CoreLocation</li> 
     <li>Auto Layout</li> 
+    <li>SwiftLint</li>
   </ul>
 </div> <br><br>
 
